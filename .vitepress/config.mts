@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Winui文档",
   description: "一个Winui文档",
   themeConfig: {
-    logo: '/logo-winui.png',
+    logo: '/public/logo-winui.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },

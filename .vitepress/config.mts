@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/vitepress-site/",
   lang: 'zn-CN',
   title: "WinUI 3 文档",
   description: "一个WinUI 3 文档",

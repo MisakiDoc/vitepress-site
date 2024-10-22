@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Winui文档"
+  text: "一个Winui文档"
+  tagline: Winui文档
+  image:
+    src: /logo-winui.png
+    alt: VitePress
   actions:
     - theme: brand
       text: Markdown Examples

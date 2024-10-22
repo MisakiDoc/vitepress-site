@@ -2,13 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  lang: 'zn-CN',
+  title: "Winui文档",
+  description: "一个Winui文档",
   themeConfig: {
+    logo: '/logo-winui.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '例子', link: '/markdown-examples' }
     ],
 
     sidebar: [

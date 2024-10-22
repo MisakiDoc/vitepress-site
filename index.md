@@ -3,19 +3,19 @@
 layout: home
 
 hero:
-  name: "Winui文档"
-  text: "一个Winui文档"
-  tagline: Winui文档
+  name: "WinUI 3 文档"
+  text: "一个WinUI 3 文档"
+  tagline: WinUI 3 文档
   image:
     src: /logo-winui.png
     alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 基础介绍
+      link: /basic
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 相关资料
+      link: /about
 
 features:
   - title: Feature A

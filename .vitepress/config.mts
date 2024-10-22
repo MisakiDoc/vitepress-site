@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zn-CN',
-  title: "Winui文档",
-  description: "一个Winui文档",
+  title: "WinUI 3 文档",
+  description: "一个WinUI 3 文档",
   themeConfig: {
     logo: '/logo-winui.png',
     // https://vitepress.dev/reference/default-theme-config

@@ -7,7 +7,7 @@ hero:
   text: "一个Winui文档"
   tagline: Winui文档
   image:
-    src: /public/logo-winui.png
+    src: /logo-winui.png
     alt: VitePress
   actions:
     - theme: brand
